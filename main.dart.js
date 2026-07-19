@@ -83086,7 +83086,7 @@ s=A.k2(new A.wZ(m,s,r))
 m=A.bL(6e5,0)
 return A.adt(A.bO(A.b([n,A.df(r,A.eK(new A.ed(B.B7,A.kn(s,A.bL(2e5,0),m),r),r,r),B.u,B.c5,r,r,r,r,r,new A.a9(o,60,o,60),r,r,r)],l),B.y,B.p,B.t),r)}}
 A.Jy.prototype={
-L(a){var s=this,r=null,q="WATER CONSERVATION & PLANT HEALTH",p="Custom drip lines, pop-up sprinkler systems, smart controllers, and scheduling to keep your garden lush while saving you time and water.",o="assets/images/irrigation_1.webp",n="Landscape Lighting",m="ATMOSPHERE & ACCENTUATED BEAUTY",l="Architectural path lights, tree uplighting, step lights, and automated outdoor systems that highlight your garden's best features at night.",k=A.br(a,r,t.w).w.a.a,j=k<768,i=k>1200?(k-1200)/2+24:24,h=A.aU("Elevating Melbourne's outdoor spaces",r,r,r,A.bD().$3$color$fontSize$fontWeight(B.c5,j?28:36,B.aD),B.d5,r),g=A.aU("Garden Solutions built to Last",r,r,r,A.dT().$3$color$fontSize$fontWeight(A.al(B.d.aF(178.5),B.c5.v()>>>16&255,B.c5.v()>>>8&255,B.c5.v()&255),16,B.a2),B.d5,r),f=t.p
+L(a){var s=this,r=null,q="WATER CONSERVATION & PLANT HEALTH",p="Custom drip lines, pop-up sprinkler systems, smart controllers, and scheduling to keep your garden lush while saving you time and water.",o="assets/images/irrigation_1.webp",n="Landscape Lighting",m="ATMOSPHERE & ACCENTUATED BEAUTY",l="Architectural path lights, tree uplighting, step lights, and automated outdoor systems that highlight your garden's best features at night.",k=A.br(a,r,t.w).w.a.a,j=k<768,i=k>1200?(k-1200)/2+24:24,h=A.aU("Elevating Melbourne's outdoor spaces",r,r,r,A.bD().$3$color$fontSize$fontWeight(B.c5,j?28:36,B.aD),B.d5,r),g=A.aU("Garden solutions built to last",r,r,r,A.dT().$3$color$fontSize$fontWeight(A.al(B.d.aF(178.5),B.c5.v()>>>16&255,B.c5.v()>>>8&255,B.c5.v()&255),16,B.a2),B.d5,r),f=t.p
 h=A.k2(A.bO(A.b([h,B.fb,g,B.lc,j?A.bO(A.b([A.ao4(B.c6,o,p,B.ol,B.hd,new A.a3q(s),q,"Garden Irrigation"),B.la,A.ao4(B.aR,"assets/images/lighting_1.webp",l,B.ok,B.hc,new A.a3r(s),m,n)],f),B.y,B.p,B.t):A.ci(A.b([A.ct(A.ao4(B.c6,o,p,B.ol,B.hd,new A.a3s(s),q,"Smart Irrigation"),1,r),B.l9,A.ct(A.ao4(B.aR,"assets/images/lighting_4.webp",l,B.ok,B.hc,new A.a3t(s),m,n),1,r)],f),B.y,B.p,B.t)],f),B.y,B.p,B.t))
 g=A.bL(8e5,0)
 return A.df(r,A.kn(h,A.bL(6e5,0),g),B.u,B.L,r,r,r,r,r,new A.a9(i,50,i,50),r,r,r)}}
@@ -83133,7 +83133,7 @@ q=A.nQ(A.m6(l,g.d?B.i:m.r,f,32),f,B.W,new A.bU(q,f,f,f,f,f,B.cF),B.as,72,f,f,72)
 m=A.aU(m.d,f,f,f,A.bD().$4$color$fontSize$fontWeight$letterSpacing(m.r,12,B.aD,1.5),f,f)
 l=A.aU(g.a.c,f,f,f,A.bD().$3$color$fontSize$fontWeight(B.i,28,B.aD),f,f)
 k=A.aU(g.a.e,f,f,f,A.dT().$3$color$fontSize$height(A.al(204,B.i.v()>>>16&255,B.i.v()>>>8&255,B.i.v()&255),15,1.6),f,f)
-j=A.aU("Explore Services",f,f,f,A.bD().$3$color$fontSize$fontWeight(B.i,16,B.a2),f,f)
+j=A.aU("Explore",f,f,f,A.bD().$3$color$fontSize$fontWeight(B.i,16,B.a2),f,f)
 i=g.d?0.3:0
 h=t.p
 return A.eR(A.et(f,A.nQ(A.Zb(p,A.iy(B.bF,A.b([o,n,A.bO(A.b([new A.bx(B.FL,A.bO(A.b([q,B.la,m,B.fb,l,B.d3,k,B.lb,A.ci(A.b([j,B.ci,new A.w9(A.m6(B.o7,g.a.r,f,20),new A.h(i,0),B.W,B.jj,f,f)],h),B.y,B.p,B.t)],h),B.T,B.p,B.t),f)],h),B.T,B.p,B.t)],h),B.Q,B.bS,f),B.bG),f,B.ep,new A.bU(B.L,f,s,c,r,f,B.a5),B.as,f,f,d,f),B.Y,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,e,f,f,f,f,f,f,!1,B.aF),B.bb,f,new A.ao7(g),new A.ao8(g),f)}}
